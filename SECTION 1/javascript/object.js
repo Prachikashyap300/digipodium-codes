@@ -19,3 +19,5 @@ Adding a new property to an existing object can be done by simply adding it like
 */
 student.country = "USA";
 console.log("Country : ", student.country);
+student.course = 'Python';
+console.log(student.course);
